@@ -20,7 +20,7 @@ The following items should be installed in your system:
   ```
   File -> New -> Java Project, untick "Use default location" and browse the git project path by clicking browse button
   ```
- || You can download my "Game.jar" => ((Here) => https://gofile.io/d/FyCH7b)
+ || You can download my "Game.jar" => ((Here) => https://www.dropbox.com/s/p5uia5odzbt4p8v/tennis.zip?dl=0)
  
  3) Play & Enjoy!
  
