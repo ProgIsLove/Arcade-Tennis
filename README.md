@@ -5,10 +5,10 @@
 ### Prerequisites
 The following items should be installed in your system:
 * Java 8 or newer.
-* git command line tool (https://help.github.com/articles/set-up-git)
+* Git command line tool (https://help.github.com/articles/set-up-git)
 * Your preferred IDE
-  * Eclipce
-  * ItelliJ IDEA
+  * Eclipse
+  * IntelliJ IDEA
  
  ### Steps:
  
